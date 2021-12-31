@@ -5,7 +5,7 @@ Open Source Enthusiast
 Neovim
 
 
-**Languages **
+**Languages**
 1. Python
 2. JavaScript
 3. C#
