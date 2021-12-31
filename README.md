@@ -1,15 +1,15 @@
 # Hello!
 Open Source Enthusiast
 
-## Primary IDE
+**Primary IDE**
 Neovim
 
 
-## Languages 
+**Languages **
 1. Python
 2. JavaScript
 3. C#
 
-## Frameworks
+**Frameworks**
 1. Django
 2. React/ReactNative
