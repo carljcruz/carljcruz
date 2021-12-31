@@ -2,7 +2,8 @@
 Open Source Enthusiast. Proficient in Python with a focus on creating web applications using Django. Aspiring Project Manager with the use of Asana as a starting point.
 
 **Primary IDE**
-Neovim
+- Neovim
+- Vscode
 
 
 **Languages**
