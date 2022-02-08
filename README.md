@@ -11,6 +11,13 @@ Open Source Enthusiast. Proficient in Python with a focus on creating web applic
 2. JavaScript
 3. C#
 
-**Frameworks**
+**Backend Frameworks**
 1. Django
-2. React/ReactNative
+2. Flask
+
+**Frontend Frameworks**
+1. React
+2. React Native
+3. Vue
+4. TailwindCSS
+5. AlphineJS
